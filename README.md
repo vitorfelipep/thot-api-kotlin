@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Thot Api é uma projeto modelo com boas práticas de construção de API utilizando spring boot com a linguagem Kotlin. Gostaria de efatizar que esse modelo de criação não é uma receita de bolo ou uma recomendação de "o certo a ser feito", apenas gostaria de expor uma alternativa a criação de APIs utilizando Spring Boot, utilizando algumas metodologias de mercado.
+Thot Api é uma projeto modelo com boas práticas de construção de API utilizando spring boot com a linguagem Kotlin. Gostaria de efatizar que esse modelo de criação não é uma receita de bolo ou uma recomendação de "o certo a ser feito", apenas gostaria de expor uma alternativa a criação de APIs utilizando Spring Boot e metodologias de mercado.
 
 ## Requisitos
 Será construido uma api que irá atender ao app Thot. 
