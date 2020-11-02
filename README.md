@@ -8,6 +8,8 @@ Thot Api é uma projeto modelo com boas práticas de construção de API utiliza
 Será construido uma api que irá atender ao app Thot. 
 O Thot é um app que tem como objetivo facilitar a comunição da área de Vendas a área Técnica da empresa que poderia auxilixar sobre possiveis projetos.
 
+[Protótipo](https://www.figma.com/file/F073EWv7sJTBB6R1YCge8Oyh/thot)
+
 ## Utilizado
 
 - Metodologia [12 factor](https://12factor.net/pt_br/)
